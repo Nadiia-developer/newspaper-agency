@@ -1,0 +1,83 @@
+.header h1{
+  font-family: Arial;
+  padding: 7px;
+  text-align: center;
+  color: #6c757d;
+  font-size: 30px;
+}
+
+.sidebar-nav {
+background-color: #333;
+color: #fff;
+padding: 15px;
+}
+
+.list-group-item {
+background-color: #444;
+margin-bottom: 5px;
+}
+
+.list-group-item a {
+color: #fff;
+text-decoration: none;
+}
+
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+.carousel-inner{
+border-radius:0 10px 10px 0;
+}
+
+.carousel-caption{
+text-align:left;
+left:5%;
+}
+
+.banner-text{
+width:70%;
+position:absolute;
+bottom:40px;
+padding-left:20px;
+}
+
+.banner-text h2{
+color:#fff;
+font-weight:600;
+}
+
+.banner-text h2:after{
+content:" ";
+width:100px;
+height:5px;
+background:#FFF;
+display:block;
+margin-top:20px;
+border-radius:3px;
+}
+
+.banner-text p{
+color:#fff;
+}
+
+.carousel-item img {
+display: block;
+margin: auto;
+}
+
+body {
+    margin-top: 20px;
+}
+
+.link-to-page {
+    float: right;
+    margin: 0 2px 0 2px;
+}
+
+.custom-text {
+ border: 1px solid #ccc;
+ padding: 15px;
+ text-align: justify;
+ word-wrap: break-word;
+}
+
+
+
