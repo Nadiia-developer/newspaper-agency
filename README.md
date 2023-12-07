@@ -29,7 +29,7 @@ Article Management:
 
 Author Management:
 - Create new authors
-- Update author experiance
+- Update author experience
 - Delete author
 
 Search Functionality
