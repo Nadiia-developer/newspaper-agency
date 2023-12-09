@@ -17,7 +17,7 @@ python manage.py runserver
 User Authentication:
 - Secure login for administrator
 - Login: user
-- Password: user1234
+- Password: user12345
 
 Dashboard:
 - Overview of recent activities
