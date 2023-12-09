@@ -16,7 +16,11 @@ python manage.py runserver
 
 User Authentication:
 - Secure login for administrator
+- Login: admin
+- Password: @adminnewspaper-agency
 
+- Login: emily.cerf
+- Password: emilynewspaperagency777
 
 Dashboard:
 - Overview of recent activities
