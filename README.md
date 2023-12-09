@@ -19,9 +19,6 @@ User Authentication:
 - Login: admin
 - Password: @adminnewspaper-agency
 
-- Login: emily.cerf
-- Password: emilynewspaperagency777
-
 Dashboard:
 - Overview of recent activities
 
