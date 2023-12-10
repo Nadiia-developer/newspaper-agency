@@ -1,4 +1,5 @@
-from django.contrib.auth.decorators import login_required
+from django.contrib import messages
+from django.contrib.auth.decorators import login_required, user_passes_test
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
 from django.urls import reverse_lazy
@@ -152,6 +153,12 @@ class RedactorExperienceUpdateView(LoginRequiredMixin, generic.UpdateView):
 class RedactorDeleteView(LoginRequiredMixin, generic.DeleteView):
     model = Redactor
     success_url = reverse_lazy("newspaper:redactor-list")
+
+
+    def dispatch(self, request, *args, **kwargs):
+        if not self.request.user.is_superuser:
+            return render (request, "newspaper/no_permission.html", {"message": "Permission denied: Only superusers can delete"})
+        return super().dispatch(request, *args, **kwargs)
 
 
 @login_required
