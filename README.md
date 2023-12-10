@@ -39,4 +39,5 @@ Search Functionality
 - Search for topic by name
 
 ```Home page Newspaper Agency
+___
 ![home-page-newspaper-agency.png](home-page-newspaper-agency.png)
