@@ -17,10 +17,6 @@ git clone https://github.com/Nadiia-developer/newspaper-agency.git
 > 
 > - pip install -r requirements.txt
 > 
-> - $env:DATABASE_URL="postgres://rdsdkbgo:VoGPrvbuf55_F9_WlancTpgSOy3lDqUe@cornelius.db.elephantsql.com/rdsdkbgo"
-> 
-> - echo $env:DATABASE_URL
-> 
 > - python manage.py runserver
 
 > #### *Mac Terminal*
@@ -30,10 +26,6 @@ git clone https://github.com/Nadiia-developer/newspaper-agency.git
 > - sourse venv\bin\activate
 > 
 > - pip install -r requirements.txt
-> 
-> - export DATABASE_URL="postgres://rdsdkbgo:VoGPrvbuf55_F9_WlancTpgSOy3lDqUe@cornelius.db.elephantsql.com/rdsdkbgo"
-> 
-> - echo $DATABASE_URL
 > 
 > - python manage.py runserver
 
