@@ -41,35 +41,18 @@ git clone https://github.com/Nadiia-developer/newspaper-agency.git
 
 ### Features
 
-> *User Authentication:*
+>*User Authentication:*
+>
+> - Login: user
 > 
-> Secure login for user
-> 
-> Login: user
-> Password: user12345
+> - Password: user12345
 
-> *Article Management:*
-> 
-> Create, edit, and delete articles
-> 
-> Categorize articles by topic
-> 
-> Assign author for article
-> 
-> Count records of newspapers, redactors, topics
+*Article Management:*
+Create, edit, and delete articles; Categorize articles by topic; Assign author for article; Count records of newspapers, redactors, topics.
 
-> *Author Management:*
-> 
-> Create new authors
-> 
-> Update author experience
-> 
+*Author Management:* Create new authors; Update author experience.
 
-> *Search Functionality:*
-> 
-> Search for author by username
-> 
-> Search for topic by name
+*Search Functionality:* Search for author by username; Search for topic by name.
 
 ___
 
