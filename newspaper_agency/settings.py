@@ -91,7 +91,7 @@ DATABASES = {
 
 db_from_env = dj_database_url.config(conn_max_age=500)
 DATABASES["default"].update(db_from_env)
-# DATABASE_URL = "postgres://rdsdkbgo:VoGPrvbuf55_F9_WlancTpgSOy3lDqUe@cornelius.db.elephantsql.com/rdsdkbgo"
+DATABASE_URL = "postgres://rdsdkbgo:VoGPrvbuf55_F9_WlancTpgSOy3lDqUe@cornelius.db.elephantsql.com/rdsdkbgo"
 
 
 # Password validation
