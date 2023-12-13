@@ -9,11 +9,13 @@ Newspaper Agency deployed to Render [Newspaper Agency](https://newspaper-agency-
 
 git clone https://github.com/Nadiia-developer/newspaper-agency.git
 
-> #### *Windows PowerShell*
+> #### *Windows PowerShell / Mac Terminal*
 >
 > - python3 -m venv venv
 > 
-> - venv\Scripts\activate
+> - venv\Scripts\activate (Windows PowerShell)
+> 
+> - sourse venv\bin\activate (Mac Terminal)
 > 
 > - pip install -r requirements.txt
 > 
@@ -25,7 +27,7 @@ git clone https://github.com/Nadiia-developer/newspaper-agency.git
 >
 > - python3 -m venv venv
 > 
-> - sourse venv\bin\activate
+> - sourse venv\bin\activate (Mac Terminal)
 > 
 > - pip install -r requirements.txt
 > 
