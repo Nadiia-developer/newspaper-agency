@@ -5,7 +5,7 @@ Newspaper Agency deployed to Render [Newspaper Agency](https://newspaper-agency-
 
 ## Installation
 
-*Clone project from GitHub*
+*Clone project from GitHub.....*
 
 git clone https://github.com/Nadiia-developer/newspaper-agency.git
 
