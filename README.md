@@ -1,12 +1,11 @@
 # Newspaper Agency
 
 ### Django project Newspaper Agency
-Newspaper Agency deployed to Render [Newspaper Agency](https://newspaper-agency-co9w.onrender.com/)
+Newspaper Agency deployed to Render [Newspaper Agency](https://newspaper-agency-co9w.onrender.com)
 
 ## Installation
 
-*Clone project from GitHub.....?????*
-*TEST*
+*Clone project from GitHub*
 
 git clone https://github.com/Nadiia-developer/newspaper-agency.git
 
@@ -23,20 +22,6 @@ git clone https://github.com/Nadiia-developer/newspaper-agency.git
 > - python manage.py migrate
 > 
 > - python manage.py runserver
-
-> #### *Mac Terminal*
->
-> - python3 -m venv venv
-> 
-> - sourse venv\bin\activate (Mac Terminal)
-> 
-> - pip install -r requirements.txt
-> 
-> - python manage.py migrate
->
-> - python manage.py runserver
-
-
 
 ### Features
 
